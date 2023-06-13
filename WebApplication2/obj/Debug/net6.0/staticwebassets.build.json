@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AuNVWG53kpIcB/ryeqgxwKRvhwnWA7RVQizVL43xnkc=",
+  "Source": "CME_TaskAPI",
+  "BasePath": "_content/CME_TaskAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "twN+IgjaDQnshoNegEonV81uIqOx+Cg08HrWCQqWWKFBJa6mrrxqEqbsddCS3uMT3/UYqFRv312aGh/t1fP+yQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\CME_Task\\CME_Task.Common\\CME_Task.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\bin\Debug\net6.0\CME_Task.Service.deps.json
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\bin\Debug\net6.0\CME_Task.Service.dll
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\bin\Debug\net6.0\CME_Task.Service.pdb
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\bin\Debug\net6.0\CME_Task.Common.dll
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\bin\Debug\net6.0\CME_Task.DAL.dll
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\bin\Debug\net6.0\CME_Task.Common.pdb
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\bin\Debug\net6.0\CME_Task.DAL.pdb
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\CME_Task.Service.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\CME_Task.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\CME_Task.Service.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\CME_Task.Service.AssemblyInfo.cs
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\CME_Task.Service.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\CME_Task.Service.csproj.CopyComplete
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\CME_Task.Service.dll
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\refint\CME_Task.Service.dll
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\CME_Task.Service.pdb
+C:\Users\pc\source\repos\CME_Task\CME_Task.Service\obj\Debug\net6.0\ref\CME_Task.Service.dll
